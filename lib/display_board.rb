@@ -11,3 +11,5 @@ def display_board
   puts horizontal_line
   puts one_row
 end
+
+display_board
